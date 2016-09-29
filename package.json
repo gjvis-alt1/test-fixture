@@ -1,0 +1,23 @@
+{
+  "name": "test-fixture",
+  "version": "1.0.0",
+  "description": "Not a real project",
+  "main": "index.js",
+  "dependencies": {
+    "gjvis-fixture-a": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gjvis-alt1/test-fixture.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gjvis-alt1/test-fixture/issues"
+  },
+  "homepage": "https://github.com/gjvis-alt1/test-fixture#readme"
+}
